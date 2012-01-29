@@ -12,7 +12,7 @@ Interactive (default value : false)
 
 Usage: 
 
-Include jquery.llcoolj.css and jquery.llcoolj.js and then simply
+Include jQuery, jquery.llcoolj.css,s and jquery.llcoolj.js and then simply
 
 $('body').llCoolJ();
 
@@ -22,3 +22,13 @@ $('body').llCoolJ({
   'inset' : true,
   'interactive' : true
 });
+
+/**
+ * llCoolJ.js v0.1
+ * 
+ * http://www.likeneveralways.com
+ *
+ * Commercial use requires one-time license fee
+ *
+ * Copyright 2012 Jacob Broms Engblom
+ */

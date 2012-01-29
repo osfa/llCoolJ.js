@@ -1,5 +1,5 @@
 /**
- * llCoolJ v0.1
+ * llCoolJ.js v0.1
  * Add some LL Cool J to yr page
  * http://www.likeneveralways.com
  *
