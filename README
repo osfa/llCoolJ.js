@@ -1,3 +1,12 @@
+/**
+ * llCoolJ.js v0.1
+ * 
+ * http://www.likeneveralways.com
+ *
+ * Commercial use requires one-time license fee
+ *
+ * Copyright 2012 Jacob Broms Engblom
+ */
 
 Tired of manually having to add LL Cool J to yr home page?
 llCoolJ.js is a jQuery plugin for quickly adding LL Cool J to yr home page.
@@ -22,13 +31,3 @@ $('body').llCoolJ({
   'inset' : true,
   'interactive' : true
 });
-
-/**
- * llCoolJ.js v0.1
- * 
- * http://www.likeneveralways.com
- *
- * Commercial use requires one-time license fee
- *
- * Copyright 2012 Jacob Broms Engblom
- */
