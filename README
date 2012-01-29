@@ -1,0 +1,6 @@
+Add some LL Cool J to yr page
+
+$('body').llCoolJ({
+  'inset' : false,
+  'interactive' : true
+});
