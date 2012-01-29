@@ -1,6 +1,24 @@
-Add some LL Cool J to yr page
+
+Tired of manually having to add LL Cool J to yr page?
+llCoolJ.js is a jQuery plugin for quickly adding LL Cool J to yr page.
+
+
+Options:
+
+Inset (default value : false) 
+	a more subtle LL Cool J
+Interactive (default value : false)
+	makes LL Cool J interactive
+
+Usage: 
+
+Include jquery.llcoolj.css and jquery.llcoolj.js and then simply
+
+$('body').llCoolJ();
+
+with options
 
 $('body').llCoolJ({
-  'inset' : false,
+  'inset' : true,
   'interactive' : true
 });
